@@ -1,1 +1,1 @@
-lga25s41-in-f238.1e100.net , 216.58.219.238google-public-dns-a.google.com , 8.8.8.8google-public-dns-b.google.com , 8.8.4.4
+google-public-dns-a.google.com , 8.8.8.8google-public-dns-b.google.com , 8.8.4.48.8google-public-dns-b.google.com , 8.8.4.4
